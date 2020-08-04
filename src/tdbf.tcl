@@ -2,10 +2,7 @@
 
 #
 # DBF (dBase) file reader/writer for Tcl.
-# Author: Pawe³ Salawa (pawelsalawa [at] gmail [dot] com)
-#
-# Code under BSD-like licence:
-# http://www.tcl.tk/software/tcltk/license.html
+# Author: PaweÂ³ Salawa (pawelsalawa [at] gmail [dot] com)
 #
 # Implementation references:
 # http://www.clicketyclick.dk/databases/xbase/format/dbf.html
